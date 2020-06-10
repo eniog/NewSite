@@ -111,7 +111,7 @@
 						<p>Powieść pani Tokarczuk nie jest antypolska, w swojej wymowie jest zdecydowanie przeciw naszym elitom . Na pierwszy plan oczywiście jak to na Ukrainie, poszli Potoccy. Najbardziej mnie rozbawił opis w rozdziale "O krwi na jedwabiach ". Rzecz nie tyczy krwawych potyczek w boju, lecz kobiecej przypadłości kasztelanowej kamienieckiej Kossakowskiej (z domu Potockiej, protegowanej Branickiego). W czasie podróży , zakrwawiła bieliznę , suknię , płaszcz i pościel. Na szczęście szlachta miała ten luksus, że liczna służba śliniąc chusteczki pocierała i wywabiała te plamy . Do tego kilka stron opisu jak to kasztelanowa rozczula się nad swoim stanem, przez trzy dni . Widać że autorka jest feministką i sprawy kobiet są dla niej ważne. Dlatego tak razi lapidarny opis gwałtu, dokonanego przez "kawalerkę z miasta" na kilkunastoletniej dziewczynie, w dalszej części powieści. </p>
 						<p class="lead">Dziewczynę wyobracali, a ojcu wybili zęby. Kilka dni po tym wydarzeniu dziewczyna się powiesiła </p>
 
-						<img title="Monika Jaruzelska" class="img-thumbnail float-right ml-3 mt-2" src="./../img/Monika1.jpeg" alt="Monika Jaruzelska">
+						<img title="Monika Jaruzelska" class="img-thumbnail float-right ml-3 mt-2" src="./../img/Monika1.jpeg" alt="Monika Jaruzelska"/>
 
 						<blockquote class="blockquote">
 
@@ -129,17 +129,6 @@
 						<p> Mam radę dla pani Tokarczuk. Zamiast przenosić nas w odległe wieki by pisać o problemach współczesnych Polaków niech napisze np. powieść szpiegowską o niemieckim agencie MM-23 zwerbowanym przez WSI z oficerem prowadzącym Angelą M. Zleceniodawca i czytelnik będą tego samego kalibru . Taka mała dygresja na temat kampanii wyborczej</p>
 
 						<img class="img-thumbnail float-left mr-3 mt-2" src="./../img/Premier.jpg" alt="Mateusz Morawiecki">
-						<blockquote class="blockquote ">
-							<p><strong>Otwarte-rewiry.pl</strong> w założeniu jest witryną poświęconą Żołnierzom Wyklętym - a w zasadzie ofiarom powojennej partyzantki. Liczba ofiar śmiertelnych sięga do 20 tys. Ofiarami byli Polacy ,Żydzi,Niemcy, Białorusini i Ukraińcy, a wszyscy razem byli obywatelami PRL. Jako były żołnierz odbywający służbę wojskową w LWP nie potrafię przejść obojętnie wobec młodych ludzi, którzy opowiadają z dumą , że ich <strong>dziadek do milicjantów strzelał jak do kaczek. </strong> Oczywiście będzie to ocena subiektywna , oparta na opowieściach ludzi , którzy wydarzenia te przeżyli i widzieli. Choć kompletnie nie zgadzam się z Olga Tokarczuk, to jednak jej powieść skłania do refleksji . Mianowicie takiej że w II wojnie światowej wszystkie narody były i sprawcami i ofiarami. Oczywiście wszystko jest kwestią proporcji.
-
-							</p>
-							<footer class="blockquote-footer">Henryk Grzybowski</footer>
-
-						</blockquote>
-
-						<div class="embed-responsive embed-responsive-16by9">
-							<iframe class="embed-responsive-item" src="./../img/Scena.mp4"></iframe>
-						</div>
 
 
 
@@ -168,8 +157,17 @@
 							</ol>
 
 					</aside>
+					
 					<!-- Footer -->
-					<footer class="page-footer font-small blue">
+					<footer class="page-footer font-small ">
+					<aside class="col-12 text-center my-1">
+						<div>
+						<a href="./../kto-jest-wzorem"  title="Przekierowanie do strony głównej">
+								<p class="lead text-info">Powrót do strony głównej</p>
+						</a>
+						</div>
+
+					</aside>
 
 						<!-- Copyright -->
 						<div class="footer-copyright text-center py-3">© 2020 Copyright:

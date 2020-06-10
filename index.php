@@ -92,7 +92,10 @@
 				<header>
 					
 					<h1 class="text-success">Kontrowersyjna lista</h1>
-					<p>Na tej stronie zaprezentuję kilka wybranych postaci z naszej historii , które są stawiane za wzory lub antywzory do naśladowania.</p>
+					<p>Na tej stronie zaprezentuję kilka wybranych postaci z naszej historii , które są stawiane za wzory lub antywzory do naśladowania.Dwa podpisy sa bezosobowe :  premier - bo MM jest pierwszym polskim premierem po 1989r i genereał - bo gen. Jaruzelski był ostatnim polskim generałem po rewlucji robotniczej w 89r, kiedy to 11 mln chłopo-robotników przejęło władzę w tym kraju.<ul class="list-unstyled">
+						<li>Jedni nazwą mnie pisiorem drudzy lewakiem </li>
+						<li>lecz zawsze i wszędzie pozostanę Polakiem</li>
+					</ul></p>
 						
 				</header>
 				
@@ -107,23 +110,24 @@
 					
 					</div>
 					
+					
 					<div class="col-sm-6 col-md-5">
 					
 						<figure>
-							<a href="#"><img src="img/MOrawiecki.jpg" alt="Premier"></a>
-							<figcaption>premier</figcaption>
-						</figure>
-					
-					</div>
-
-					<div class="col-sm-6 col-md-4">
-					
-						<figure>
-							<a href="#"><img src="img/Lupaszko.jpg" alt="zygmunt szelendziosz"></a>
+							<a href="./WP/bohater-czy-zbrodniarz"><img class="img-thumbnail" src="img/Lupaszko.jpg" alt="zygmunt szelendziosz"></a>
 							<figcaption>Łupaszko</figcaption>
 						</figure>
 					
 					</div>
+					<div class="col-sm-6 col-md-4">
+					
+						<figure>
+							<a href="#"><img src="img/MOrawiecki.jpg" alt="Premier"></a>
+							<figcaption>Premier</figcaption>
+						</figure>
+					
+					</div>
+
 
 					<div class="col-sm-6 col-md-4">
 					
@@ -174,7 +178,7 @@
 					
 						<figure>
 							<a href="#"><img src="img/Kaczafi.jpg" alt="kaczyński"></a>
-							<figcaption>Kaczafi</figcaption>
+							<figcaption>Jarosław</figcaption>
 						</figure>
 					
 					</div>
@@ -211,6 +215,17 @@
 			</div>	
 				
 		</section>
+							<!-- Footer -->
+							<footer class="page-footer font-small">
+
+						<!-- Copyright -->
+						<div class="footer-copyright text-center py-3">© 2020 Copyright:
+							<a href="https://github.com/eniog/NewSite" target="_blank">site code on github</a>
+						</div>
+						<!-- Copyright -->
+
+					</footer>
+					<!-- Footer -->
 		
 	</main>
 	

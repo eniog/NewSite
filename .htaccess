@@ -8,3 +8,4 @@ RewriteEngine on
 RewriteRule kto-jest-wzorem index.php
 RewriteRule kim-jest-olga-tokarczuk ./WP/wpis.php
 RewriteRule olga-domatorka ./WP/olga.php
+RewriteRule bohater-czy-zbrodniarz ./WP/lupa.php
