@@ -101,7 +101,7 @@
 					<div class="col-sm-6 col-md-5 offset-md-1">
 					
 						<figure>
-							<a href="./WP/kim-jest-olga-tokarczuk"><img src="img/Olga.jpg"  alt="Loga Tokarczuk"></a>
+							<a href="./WP/kim-jest-olga-tokarczuk"><img class="img-thumbnail" src="img/Olga.jpg"  alt="Loga Tokarczuk"></a>
 							<figcaption>Olga</figcaption>
 						</figure>
 					
