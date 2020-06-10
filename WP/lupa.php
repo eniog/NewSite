@@ -86,7 +86,7 @@
 
 
 
-                            <img class="img-thumbnail float-left mr-3 mt-2" src="./../img/Z_S.jpg" alt="Lupaszko">
+                            <img  title="Lupaszko" class="img-thumbnail float-left mr-3 mt-2" src="./../img/Z_S.jpg" alt="Lupaszko">
                             <blockquote class="blockquote ">
                                 <p><strong>Otwarte-rewiry.pl</strong> w założeniu jest witryną poświęconą Żołnierzom Wyklętym - a w zasadzie ofiarom powojennej partyzantki. Liczba ofiar śmiertelnych sięga do 20 tys. Ofiarami byli Polacy, Żydzi, Niemcy, Białorusini i Ukraińcy, a wszyscy razem byli obywatelami PRL. Jako były żołnierz odbywający służbę wojskową w LWP nie potrafię przejść obojętnie wobec młodych ludzi, którzy opowiadają z dumą , że ich <strong>dziadek do milicjantów strzelał jak do kaczek. </strong> Oczywiście będzie to ocena subiektywna , oparta na opowieściach ludzi , którzy wydarzenia te przeżyli i widzieli. Choć kompletnie nie zgadzam się z Olga Tokarczuk, to jednak jej powieść <strong>Księgi Jakubowe</strong> skłania do refleksji . Mianowicie takiej że w II wojnie światowej wszystkie narody były i sprawcami i ofiarami. Oczywiście wszystko jest kwestią proporcji.
 
@@ -125,7 +125,7 @@
                     <aside class="col-lg-4">
 
 
-                        <a href="olga-domatorka" target="_blank"><img class="img-thumbnail" src="./../img/Zygmunt.jpg" alt="Zygmunt Szendzielarz" title="OLga Tokarczuk"></a>
+                        <a href="olga-domatorka" target="_blank"><img class="img-thumbnail" src="./../img/Zygmunt.jpg" alt="Zygmunt Szendzielarz" title="Lupaszko"></a>
 
                         <h3 class="h4 my-4">Sylwetki autorów</h3>
                         <ul class="list-group">
@@ -158,8 +158,8 @@
                         </aside>
 
                         <!-- Copyright -->
-                        <div class="footer-copyright text-center py-3">© 2020 Copyright:
-                            <a href="https://github.com/eniog/NewSite" target="_blank">site code on github</a>
+                        <div class="footer-copyright text-center py-3">© 2020 Copyright : grzybowski.info@gmail.com
+                            <a href="https://github.com/eniog/NewSite" target="_blank"> <p class="lead text-success">site code on github</p></a>
                         </div>
                         <!-- Copyright -->
 

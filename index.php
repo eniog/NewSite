@@ -219,8 +219,8 @@
 							<footer class="page-footer font-small">
 
 						<!-- Copyright -->
-						<div class="footer-copyright text-center py-3">© 2020 Copyright:
-							<a href="https://github.com/eniog/NewSite" target="_blank">site code on github</a>
+						<div class="footer-copyright text-center py-3">© 2020 Copyright : grzybowski.info@gmail.com
+							<a href="https://github.com/eniog/NewSite" target="_blank"><p class="lead text-success">site code on github</p></a>
 						</div>
 						<!-- Copyright -->
 
