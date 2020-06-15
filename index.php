@@ -92,7 +92,7 @@
 				<header>
 					
 					<h1 class="text-success">Kontrowersyjna lista</h1>
-					<p>Na tej stronie zaprezentuję kilka wybranych postaci z naszej historii , które są stawiane za wzory lub antywzory do naśladowania.Dwa podpisy sa bezosobowe :  premier - bo MM jest pierwszym polskim premierem po 1989r i genereał - bo gen. Jaruzelski był ostatnim polskim generałem po rewlucji robotniczej w 89r, kiedy to 11 mln chłopo-robotników przejęło władzę w tym kraju.<ul class="list-unstyled">
+					<p>Na tej stronie zaprezentuję kilka wybranych postaci z naszej historii , które są stawiane za wzory lub antywzory do naśladowania. Dwa podpisy są bezosobowe : premier - bo MM jest pierwszym polskim premierem po 1989 r. i generał - bo gen. Jaruzelski był ostatnim polskim generałem po rewolucji robotniczej w 89 r, kiedy to 11 mln chłopo-robotników przejęło władzę w tym kraju.<ul class="list-unstyled">
 						<li>Jedni nazwą mnie pisiorem drudzy lewakiem </li>
 						<li>lecz zawsze i wszędzie pozostanę Polakiem</li>
 					</ul></p>

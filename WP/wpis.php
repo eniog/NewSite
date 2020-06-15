@@ -108,7 +108,7 @@
 						<h2 class="h3 font-weight-bold mb-4">Czas i miejsce Ksiąg Jakubowych</h2>
 
 						<p>Akcja noblowskiej powieści pani Olgi toczy się na wschodnich terenach Rzeczypospolitej nr. I w drugiej połowie XVIII wieku w czasach kiedy Rosjanie, Niemcy i Turcy rośli w siłę, a Polacy byli w ostrej defensywie na każdym polu. Już na wstępie autorka zabiera nas do Rohatynia, gdzie jest kościół , dwie synagogi i pięć cerkwi. No cóż proporcje nie są dla nas korzystne, ale jakoś magnaci przez tak długi okres, aż do rewolucji październikowej 1917, utrzymywali dominującą pozycję Polaków na tych terenach.</p>
-						<p>Powieść pani Tokarczuk nie jest antypolska, w swojej wymowie jest zdecydowanie przeciw naszym elitom . Na pierwszy plan oczywiście jak to na Ukrainie, poszli Potoccy. Najbardziej mnie rozbawił opis w rozdziale "O krwi na jedwabiach ". Rzecz nie tyczy krwawych potyczek w boju, lecz kobiecej przypadłości kasztelanowej kamienieckiej Kossakowskiej (z domu Potockiej, protegowanej Branickiego). W czasie podróży , zakrwawiła bieliznę , suknię , płaszcz i pościel. Na szczęście szlachta miała ten luksus, że liczna służba śliniąc chusteczki pocierała i wywabiała te plamy . Do tego kilka stron opisu jak to kasztelanowa rozczula się nad swoim stanem, przez trzy dni . Widać że autorka jest feministką i sprawy kobiet są dla niej ważne. Dlatego tak razi lapidarny opis gwałtu, dokonanego przez "kawalerkę z miasta" na kilkunastoletniej dziewczynie, w dalszej części powieści. </p>
+						<p>Powieść pani Tokarczuk nie jest antypolska, w swojej wymowie jest zdecydowanie przeciw naszym elitom . Na pierwszy plan oczywiście jak to na Ukrainie, poszli Potoccy. Najbardziej mnie rozbawił pewien opis w rozdziale "O krwi na jedwabiach ". Rzecz nie tyczy krwawych potyczek w boju, lecz kobiecej przypadłości kasztelanowej kamienieckiej Kossakowskiej (z domu Potockiej, protegowanej Branickiego). W czasie podróży , zakrwawiła bieliznę , suknię , płaszcz i pościel. Na szczęście szlachta miała ten luksus, że liczna służba śliniąc chusteczki pocierała i wywabiała te plamy . Do tego kilka stron opisu jak to kasztelanowa rozczula się nad swoim stanem, przez trzy dni . Widać że autorka jest feministką i sprawy kobiet są dla niej ważne. Dlatego tak razi lapidarny opis gwałtu, dokonanego przez "kawalerkę z miasta" na kilkunastoletniej dziewczynie, w dalszej części powieści. </p>
 						<p class="lead">Dziewczynę wyobracali, a ojcu wybili zęby. Kilka dni po tym wydarzeniu dziewczyna się powiesiła </p>
 
 						<img title="Monika Jaruzelska" class="img-thumbnail float-right ml-3 mt-2" src="./../img/Monika1.jpeg" alt="Monika Jaruzelska"/>
@@ -128,8 +128,13 @@
 						</p>
 						<p> Mam radę dla pani Tokarczuk. Zamiast przenosić nas w odległe wieki by pisać o problemach współczesnych Polaków niech napisze np. powieść szpiegowską o niemieckim agencie MM-23 zwerbowanym przez WSI z oficerem prowadzącym Angelą M. Zleceniodawca i czytelnik będą tego samego kalibru . Taka mała dygresja na temat kampanii wyborczej</p>
 
-						<img class="img-thumbnail float-left mr-3 mt-2" src="./../img/Premier.jpg" alt="Mateusz Morawiecki">
-
+						<img class="img-thumbnail float-left mr-3 mt-2 mb-3" src="./../img/Premier.jpg" alt="Mateusz Morawiecki">
+						<h2 class="h3 font-weight-bold mb-4">Dlaczego nie ufam Oldze Tokarczuk</h2>
+						<blockquote class="bockquote">
+						<p>To jest bardzo dobre pytanie, ale na chwilę obecną nie mam na nie jednoznacznej odpowiedzi. Uważam, że rok życia niesie więcej nauki, niż nie jedna mądra księga, choćby była jakubowa. Olga Tokarczuk pisze tak jakby w życiu lizała ciastko przez szybę w cukierni, dotyka uczuć i namiętności, których osobiście nie doznała. Przypomina mi pewną opowieść o zebraniu ludowym na Warmii tuż po Akcji Wisła, na temat organizacji kołchozów . Cytuję sekretarza partii, który oczywiście  nigdy nie był przed wojną na Ukrainie-części ZSRR : „Przed wojną polscy panowie pili krew chłopską i prześladowali Żydów , chłopi nie mieli ziemi , panował głód i nędza. W kraju rad chłopi pracowali w kołchozach, byli właścicielami ziemi i sami o sobie stanowili. Czy chcecie żeby tu było jak na Ukrainie ? ” - zawiesił głos i czekał na odpowiedź . I wtedy wyszła na środek stara Ukrainka i powiedziała „ Ja idu karowy doity, a ty synok idy w kukurydzu sraty” -co skutecznie zakończyło agitacje i opowieści jak to było dawniej.   </p>
+						
+						<footer class="blockquote-footer">Henryk Grzybowski</footer>
+						</blockquote>
 
 
 					</div>

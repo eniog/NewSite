@@ -86,16 +86,16 @@
 
 
 
-                            <img  title="Lupaszko" class="img-thumbnail float-left mr-3 mt-2" src="./../img/Z_S.jpg" alt="Lupaszko">
+                            <img title="Lupaszko" class="img-thumbnail float-left mr-3 mt-2" src="./../img/Z_S.jpg" alt="Lupaszko">
                             <blockquote class="blockquote ">
-                                <p><strong>Otwarte-rewiry.pl</strong> w założeniu jest witryną poświęconą Żołnierzom Wyklętym - a w zasadzie ofiarom powojennej partyzantki. Liczba ofiar śmiertelnych sięga do 20 tys. Ofiarami byli Polacy, Żydzi, Niemcy, Białorusini i Ukraińcy, a wszyscy razem byli obywatelami PRL. Jako były żołnierz odbywający służbę wojskową w LWP nie potrafię przejść obojętnie wobec młodych ludzi, którzy opowiadają z dumą , że ich <strong>dziadek do milicjantów strzelał jak do kaczek. </strong> Oczywiście będzie to ocena subiektywna , oparta na opowieściach ludzi , którzy wydarzenia te przeżyli i widzieli. Choć kompletnie nie zgadzam się z Olga Tokarczuk, to jednak jej powieść <strong>Księgi Jakubowe</strong> skłania do refleksji . Mianowicie takiej że w II wojnie światowej wszystkie narody były i sprawcami i ofiarami. Oczywiście wszystko jest kwestią proporcji.
+                                <p><strong>Otwarte-rewiry.pl</strong> w założeniu jest witryną poświęconą Żołnierzom Wyklętym - a w zasadzie ofiarom powojennej partyzantki. Liczba ofiar śmiertelnych sięga do 20 tys. Ofiarami byli Polacy, Żydzi, Niemcy, Białorusini i Ukraińcy, a wszyscy razem byli obywatelami PRL. Dzisiaj ofiarą staje się prawda i polska młodzież, która niestety zaczyna tę mowę nienawiści traktować jako obowiązek patriotyczny. Jako były żołnierz odbywający służbę wojskową w LWP nie potrafię przejść obojętnie wobec młodych ludzi, którzy opowiadają z dumą , że ich <strong>dziadek do milicjantów strzelał jak do kaczek. </strong> Oczywiście będzie to ocena subiektywna , oparta na opowieściach ludzi , którzy wydarzenia te przeżyli i widzieli. Choć kompletnie nie zgadzam się z Olga Tokarczuk, to jednak jej powieść <strong>Księgi Jakubowe</strong> skłania do refleksji . Mianowicie takiej że w II wojnie światowej wszystkie narody były i sprawcami i ofiarami. Oczywiście wszystko jest kwestią proporcji.
 
                                 </p>
                                 <!--<footer class="blockquote-footer">Henryk Grzybowski</footer>-->
 
                             </blockquote>
-                            <p class="lead">Obejrzyjcie w skupieniu , zabawę nie tak już młodych ludzi w partyzantów Łupaszki. Tak właśnie wyglądała ich zdaniem walka o wolność i niepodległość. Ja niestety słyszałem od naocznych świadków zgoła inne opowieści. Na Litwie, Białorusi i w pół-wsch Polsce przez wielu są uważani za zwykłych morderców prowadzących czystki etniczne, na terenie Warmii zostali w pamięci wielu starszych ludzi jako złodzieje, którzy niestety aprowizację prowadzili brutalnie z bronią w ręku. </p>
-                            <p>Na marginesie ja w taką wojnę jak poniżej, bawiłem się z patykiem, gdy miałem 9 lat </p>
+                            <p class="lead">Obejrzyjcie w skupieniu , zabawę nie tak już młodych ludzi w partyzantów Łupaszki. Tak właśnie wyglądała ich zdaniem walka o wolność i niepodległość. Ja niestety słyszałem od naocznych świadków zgoła inne opowieści. Na Litwie, Białorusi i w pół-wsch Polsce przez wielu są uważani za zwykłych morderców prowadzących czystki etniczne, na terenie Warmii zostali w pamięci wielu starszych ludzi jako złodzieje, którzy niestety aprowizację prowadzili brutalnie z bronią w ręku. Obecnie są traktowani jak "dobro narodowe". Choć mają życiorysy naciągane pełne luk i kolaboracji z niemieckim okupantem, to jednak uczucie nienawiści do Rosjan ma większą moc niż miłość do własnego narodu - a przynajmniej jest tak od 10 lat.</p>
+                            <p>Na marginesie ja w taką wojnę jak poniżej, bawiłem się z patykiem, gdy miałem 9 lat. </p>
 
                             <div class="embed-responsive embed-responsive-16by9">
                                 <iframe class="embed-responsive-item" src="./../img/Scena.mp4"></iframe>
@@ -104,17 +104,23 @@
                             <p> Raz stałem w kolejce po zapomogę w państwowym urzędzie repatriacyjnym. Patrzę, a tam moi dwaj koledzy z kompanii szturmowej. Wychodzę z kolejki, witam się, ale oni jakoś nie bardzo chcieli ze mną gadać, to wróciłem na swoje miejsce. Przyjechał kasjer z pieniędzmi, a ci moi koledzy odchylili płaszcze, wyciągnęli broń, rozbroili policjantów, zabrali kasę i uciekli. Ja tam stoję, alarm, myślę jak tu się wycofać, a już wojsko przyjechało. No, to stałem. Potem wróciłem do domu, spotkałem koleżankę, a ta mówi, że „jaki ja odważny”, że ludzie z kolejki mówili, że taka odwaga – wojsko wszędzie, a ten ani drgnął. Myśleli, że ja jestem wspólnikiem tamtych. I tak zostałem bohaterem – opowiada Józef Rusak.
                                 <footer class="blockquote-footer">jest to relacja jednego z "komandosów" Łupaszki, moim zdaniem bardziej oddaje klimat tamtych czasów 1945-48 </footer>
                                 Zastanawiam mnie, jak się czuli ludzie w kolejce zwykli przesiedleńcy, którzy nie mieli na chleb.
-                                Nawiasem mówiąc to początek lat 90 w II RP był podobny, ludzie bez pracy i pieniędzy, tylko złodzieje byli nazywani złodziejami, oszuści oszustami , a ofiary ofiarami. Gdy koalicja PO-PSL, z inicjatywy PiS 1 marca 2011 r. ustanowiła dniem żołnierzy wyklętych, zatarła się różnica między ofiarami i sprawcami.
+                                Nawiasem mówiąc to początek lat 90 w III RP był podobny, ludzie bez pracy i pieniędzy, tylko złodzieje byli nazywani złodziejami, oszuści oszustami , a ofiary ofiarami. Gdy koalicja PO-PSL, z inicjatywy PiS 1 marca 2011 r. ustanowiła dniem żołnierzy wyklętych, zatarła się różnica między ofiarami i sprawcami.
                             </p>
-                            
-                            <img title="Homonto" class="img-thumbnail float-right ml-3 mt-2" src="./../img/Homonto.jpg" alt="Koniki w homontach"/>
 
-                                <p class="lead">A skoro jesteśmy przy Olsztynie to po 1945 r. pozostało wielu Niemców w rejonie Stawigudy, którzy uważali się się za rodowitych Warmiaków. Ich pierwsze kontakty z „żołnierzami wileńskiej brygady”, były bardzo drastyczne. Podczas przeszukań domostw rekwirowali co chcieli, Niemcy jako nieznający języka polskiego, po prostu nie wiedzieli czego się od nich żąda, co z kolei traktowane było jak opór i prowadziło do ciężkiego pobicia , czasami zabójstwa na miejscu . Osobiście rozmawiałem pod koniec lat 80 z matką i córką w Olsztynie, które po takiej akcji zostały ubrane w homonta i zaprzężone do wozu, jak zwierzęta pociągowe w celu odwiezienie łupów dla Łupaszki, który jak „ Nikoś” przebywał w Gdańsku i zarządzał terenem. Zresztą w tójkącie Pieniężno-Orneta-Lidzbark Warm. ludzie Łupaszki zwani "wileńszczukami" zaprzegali Niemki do bryczek i jeździli do miasta na rynek. 
-                                    <footer class="blockquote-footer">Henryk Grzybowski</footer>
-                                    <footer class="blockquote-footer"> w panelu bocznym w przpadku żołnierzy wyklętych dalej będzie nam towrzyszyć Lament</footer>
+                            <img title="Homonto" class="img-thumbnail float-right ml-3 mt-2" src="./../img/Homonto.jpg" alt="Koniki w homontach" />
+
+                            <p class="lead">A skoro jesteśmy przy Olsztynie to po 1945 r. pozostało wielu Niemców w rejonie Stawigudy, którzy uważali się się za rodowitych Warmiaków. Ich pierwsze kontakty z „żołnierzami wileńskiej brygady”, były bardzo drastyczne. Podczas przeszukań domostw rekwirowali co chcieli, Niemcy jako nieznający języka polskiego, po prostu nie wiedzieli czego się od nich żąda, co z kolei traktowane było jak opór i prowadziło do ciężkiego pobicia , czasami zabójstwa na miejscu . Osobiście rozmawiałem pod koniec lat 80 z matką i córką w Olsztynie, które po takiej akcji zostały ubrane w homonta i zaprzężone do wozu, jak zwierzęta pociągowe w celu odwiezienia łupów Łupaszce, który jak „ Nikoś” przebywał w Gdańsku i zarządzał terenem. Zresztą w trójkącie Pieniężno-Orneta-Lidzbark Warm. ludzie Łupaszki zwani "wileńszczukami" zaprzegali Niemki do bryczek i jeździli do miasta na rynek. Czuli się bezkarnie , gdzyż uchodzili za ludzi z "lasu" , a jednocześnie wspólpracowali z MO. Zdarzały się nawet przypadki, gdy pomagali bezpośrednio w likwidacji niewygodnych byłych akowców np. w rejonie Ornety, gdzie został zamordowany brat mojego dziadka. Rozpuszczali fałszywe plotki o swoich przeciwnikach , sugerujące ich współpracę z UB , jednocześnie sami "robiąc" na nich donosy. Okradali najbliższych sasiadów. Taką bronią walczyli na ogół ludzie Łupaszki. Byli bezwzględni i skuteczni, ale czy z tego mogło cokolwiek dobrego wyniknąć dla Ziem Odzyskanych ? Ci ludzie zostali kompletnie oderwani od rzeczywistości, nie mieli bladego pojęcia co dzieje się na świecie i jak zakończyła się II Wojna Światowa.
+                            </p>
+
+                            <h2 class="h3 font-weight-bold mt-4 mb-4">Jeżeli nie wiadomo o co chodzi tzn. że chodzi o pieniądze ! </h2>
+                            <blockquote class="blockquote">
+                                <p> Musimy na wstępie wyjaśnić sobie o jakich pieniądzach rozmawiamy, a jest to w istocie bardzo ciekawe. Na dzień przed 1 września 1939 r. w II RP pomoc domowa zarabiała 35 zł, murarz w W-wie 135 zł, a taki Łupaszka jako dowódca brygady zarabiałby miesięcznie 1200 zł. Ideologia była w takiej sytuacji na planie drugim. Żołnierz zawodowy, który tyle lat żył dostanio na koszt podatnika miał do wyboru kilka opcji honorowych : po pierwsze mógł zginąć na polu chwały, po drugie mógł dostać się do niewoli, po trzecie przedostać się przez granicę i kontynuować walkę. Jeżeli ktoś uciekł z pola walki i po kilku latach wojny zaczął wykonywać wyroki śmierci na rzekomych kolaborantach był po prostu tchórzem. Dla mnie więcej odwagi miał taki sekretarz partii który samotnie szedł organizować oświatę na wsi niż te " tłumoki wyklęte" co pisać i czytać nie potrafili, ale przy pomocy kłonic i siekier, całą bandą pod osłoną nocy go napadli. Przeniesienie ideologi żołnierzy wyklętych jest bardzo wygodne w dzisiejszych czasach zwłaszcza politykom taka opcja robienia niczego bez odpowiedzialności i konsekwencji , bardzo przypadła do gustu . Pozyskiwanie majątków taką metodą na "Łupaszkę" stało się domeną zarówno osób świeckich jak i kościelnych. Metoda jest prosta. Opieka w zamian za przepisanie majatku. Dopóki ofiara może pracować i sama o siebie zadbać jest okey problem zaczyna się w przypadku choroby. Nikt nie zgłasza się po odbiór takich osób i trafiają do hospicjum, co w polskim wydaniu jest wyrokiem śmierci. A pamiętajmy, że ludzie Łupaszki byli partyzantką katolicką , która dzień zaczynała i kończyła różańcem. Z opisów wiemy do czego byli zdolni. Jeżeli czerpie się z takich wzorców, to nic dziwnego, że moralnie jesteśmy tu gdzie jesteśmy. Gdyby dziś mnie ktoś zapytał. Z czym bym poszedł w 1945 r. na warmińską wieś jako członek bandy z bronią w ręku, czy samotnie z elementarzem pod pachą? Wybrałbym elementarz choć bardzo często było to równoznaczne ze śmiercią.
+                                    Jeżeli z takich ludzi jak Zygmunt Szendzielarz, robimy bohaterów, to nie ma sensu zaprzeczać, że mordowaliśmy Żydów po wojnie.
                                 </p>
+                                <footer class="blockquote-footer">Henryk Grzybowski</footer>
+                            </blockquote>
 
-            
+
 
 
 
@@ -125,24 +131,28 @@
                     <aside class="col-lg-4">
 
 
-                        <a href="olga-domatorka" target="_blank"><img class="img-thumbnail" src="./../img/Zygmunt.jpg" alt="Zygmunt Szendzielarz" title="Lupaszko"></a>
+                        <a href="./../kto-jest-wzorem" target="_blank"><img class="img-thumbnail" src="./../img/Zygmunt.jpg" alt="Zygmunt Szendzielarz" title="Lupaszko, nowa karta"></a>
 
-                        <h3 class="h4 my-4">Sylwetki autorów</h3>
-                        <ul class="list-group">
-                            <a href="http://staropolska.pl/sredniowiecze/poezja_religijna/posluchajcie.html" target="_blank" class="list-group-item list-group-item-dark list-group-item-action">Autor nieznany</a>
+                        <h3 class="h4 my-4">Zapiera dech</h3>
+                        <a href="https://www.tygodnikprzeglad.pl/58176-2/" target="_blank" class="list-group-item list-group-item-dark list-group-item-action">Cały tekst</a>
 
 
-                            <h3 class="h4 my-3">Lament świętokrzyski</h3>
-                            <ol class="list-unstyled ml-4">
-                                <li>Posłuchajcie, bracia miła,</li>
-                                <li class="ml-2">Kcęć wam skorżyć krwawą głowę</li>
-                                <li>Usłyszycie moj zamętek,</li>
-                                <li class="ml-2">Jen mi się zstał w Wielki Piątek.</li>
-                                <li>Pożałuj mię, stary, młody,</li>
-                                <li class="ml-2">Boć mi przyszły krwawe gody;</li>
-                                <li>Jednegociem Syna miała</li>
-                                <li class="ml-2"> tegociem ożalała</li>
-                            </ol>
+                        <h3 class="h4 my-3">Relacje świadków</h3>
+
+                        <p>„Najtragiczniejszy pod względem liczby ofiar był najazd grupy kawalerzystów 5. Brygady AK na zagrodę Gylisów. Partyzanci wyprowadzili z domu żonę nieobecnego gospodarza Konstanciję Gylieně z sześciorgiem dzieci oraz mieszkającego z nimi dzierżawcę części ziem Bolesława Strumiłłę (Balys Strumila)”. Ten ostatni próbował się wstawić za gospodynią, ale go zastrzelili. „Konstanciję Gylieně zastrzelono przy studni wraz z najmłodszą, kilkumiesięczną córką Genovaitě. Pozostałą piątkę zaprowadzono na rozstrzelanie do stodoły. Najstarsza z córek Gylisów, dziewiętnastoletnia Jadvyga, została tam przed śmiercią zgwałcona. Z egzekucji ocalała jedynie ranna w szyję Terese, którą partyzanci uznali za martwą”. Nieopodal domu Gylisów „znajdowało się gospodarstwo kolejnego szaulisa (członka paramilitarnej organizacji, Związku Strzelców Litewskich – przyp. red.) Alfonsasa Stašelisa. (…) Pod nieobecność gospodarza polscy partyzanci rozstrzelali jego żonę Emiliję i kilkuletnią córkę Onute”.</p>
+                        <p>Patrol 5. Wileńskiej Brygady AK dotarł do wsi Vymančiai. „W domu pozostał Petras Vinslovans z żoną Salomėją i pięcioma córkami (w wieku od 5 do 20 lat): Liudviną, Zofiją, Oną, Leonorą i Eleną. Wszyscy oni zostali rozstrzelani”. Kilometr dalej był folwark Reputany, w którym „mieszkała rodzina Dzimidasów. W domu znajdował się w tym czasie gospodarz Povilas z pięciorgiem dzieci: jego żona przebywała w szpitalu w Malatach. W czasie najścia partyzantów (…) gospodarz ukrył się pod kanapą, a dzieci przekonały partyzantów, że ojciec wyjechał odwiedzić matkę do szpitala. W tej sytuacji rozstrzelanych zostało czworo dzieci, w wieku od 2 do 16 lat: Benediktas, Antanas, Stepanija i Bronislava. (…) Łącznie w Vymančiai i Reputanach zabito tego ranka dwanaście osób: dwóch starszych mężczyzn (w wieku 52 i 60 lat) oraz dziesięcioro kobiet i dzieci”.
+                            W Ołkunach zastrzelono Mariannę Ramejkową, która trzymała „na rękach sześcioletnią córkę Aldonę Weronikę. Matka została śmiertelnie trafiona w głowę, córka zaś otrzymała dwa śmiertelne postrzały w klatkę piersiową”.
+
+                        </p>
+                        <h3 class="h4 my-4">Relacja Jonasa Žvinysa, plebana kościoła w Dubinkach (fragmenty)</h3>
+                        <p>
+
+                            „Idę na plebanię. Dowiaduję się, że Polacy wyszli w kierunku majątku. Mama lamentuje, mówi: rozstrzelali gajowego z rodziną i jeszcze kogoś.
+                            Przychodzę, straszny widok. W kątach – mąż zastrzelony, żona zastrzelona i dwoje dzieciątek w kołysce zakrwawionych, nieżywych. Zamordowani też inni, którzy byli w tym domu: młynarka Šimenskieně (Rozalia Szymiańcowa), krawiec Kerulis, szwagier gajowego.
+                            Wziąłem z kościoła stułę, olejki święte i idę do majątku. A tam słychać strzały. Przede wszystkim przychodzę do Vaidukevičiusa: wszyscy wyprowadzeni na ganek i rozstrzelani. Ojciec trzyma krzyż w ręku, matka z modlitewnikiem, chłopczyk dwunastoletni, dziewczynka dziesięcioletnia, z różańcami. I w kołysce trzymiesięczne dziecko, zalane krwią.
+                            Idę do Gurkisa. Wchodzę – jego żona i syn rozstrzelani. (…)
+                            Idę do Stašelisa. (…) Polacy w jego domu zastrzelili żonę i może trzyletnią córeczkę, dopiero przebudzone.
+                            Idę do Grytě. Tam byli dwaj bracia, dwie siostry i babcia. Jednego z braci nie było w domu, drugi schował się za drzwiami, a dziewczyny w życie. Polacy przestrzelili babci głowę przez skroń. Ona jeszcze żyła. Przewiązałem ranę, dałem ostatnie namaszczenie, rozgrzeszenie”.</p>
 
                     </aside>
 
@@ -159,7 +169,9 @@
 
                         <!-- Copyright -->
                         <div class="footer-copyright text-center py-3">© 2020 Copyright : grzybowski.info@gmail.com
-                            <a href="https://github.com/eniog/NewSite" target="_blank"> <p class="lead text-success">site code on github</p></a>
+                            <a href="https://github.com/eniog/NewSite" target="_blank">
+                                <p class="lead text-success">site code on github</p>
+                            </a>
                         </div>
                         <!-- Copyright -->
 
