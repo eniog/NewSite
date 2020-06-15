@@ -122,8 +122,8 @@
 					<div class="col-sm-6 col-md-4">
 					
 						<figure>
-							<a href="#"><img src="img/MOrawiecki.jpg" alt="Premier"></a>
-							<figcaption>Premier</figcaption>
+							<a href="#"><img src="img/Kazimierz.jpg" alt="Premier"></a>
+							<figcaption>burmistrz Pieniężna</figcaption>
 						</figure>
 					
 					</div>
