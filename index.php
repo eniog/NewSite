@@ -92,7 +92,7 @@
 				<header>
 					
 					<h1 class="text-success">Kontrowersyjna lista</h1>
-					<p>Na tej stronie zaprezentuję kilka wybranych postaci z naszej historii , które są stawiane za wzory lub antywzory do naśladowania. Dwa podpisy są bezosobowe : premier - bo MM jest pierwszym polskim premierem po 1989 r. i generał - bo gen. Jaruzelski był ostatnim polskim generałem po rewolucji robotniczej w 89 r, kiedy to 11 mln chłopo-robotników przejęło władzę w tym kraju.<ul class="list-unstyled">
+					<p>Na tej stronie zaprezentuję kilka wybranych postaci, które są stawiane za wzory lub antywzory do naśladowania. Dokonałem dwóch ciekawych odkryć. Pierwsze to : im bardziej oddalamy się od 1989 r. tym zacieklej ludzie PO_PiS-u walczą z komuną. Drugie : kolaboracja własna lub członków rodziny, jest wprost proporcjonalna do walki z kolaborantami.<ul class="list-unstyled">
 						<li>Jedni nazwą mnie pisiorem drudzy lewakiem </li>
 						<li>lecz zawsze i wszędzie pozostanę Polakiem</li>
 					</ul></p>
@@ -122,7 +122,7 @@
 					<div class="col-sm-6 col-md-4">
 					
 						<figure>
-							<a href="#"><img src="img/Kazimierz.jpg" alt="Premier"></a>
+							<a href="https://otomojdom.pl/"><img src="img/Kazimierz.jpg" alt="Premier"></a>
 							<figcaption>burmistrz Pieniężna</figcaption>
 						</figure>
 					
@@ -219,7 +219,7 @@
 							<footer class="page-footer font-small">
 
 						<!-- Copyright -->
-						<div class="footer-copyright text-center py-3">© 2020 Copyright : grzybowski.info@gmail.com
+						<div class="footer-copyright text-center py-3">© 2020 Copyright : henryk@otwarte-rewiry.pl
 							<a href="https://github.com/eniog/NewSite" target="_blank"><p class="lead text-success">site code on github</p></a>
 						</div>
 						<!-- Copyright -->

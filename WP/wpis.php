@@ -115,7 +115,7 @@
 
 						<blockquote class="blockquote">
 
-							<p>Taka narracja ośmieszania patriotyzmu i przekręcania historii, nie powstała nagle. Nie wymyśliła jej Olga Tokarczuk, ani Niemcy czy Żydzi. Jeśli prześledzimy lata 70 i złoty okres gierkowski . Zobaczymy w nim chłopo-robotnika i inteligencje pracującą <strong>europejczyków </strong> cenionych przez zachodnich bankierów. Do prowadzenia negocjacji handlowych nie potrzebują elit ani historii. Historia i sentymenty tylko przeszkadzają. Doskonale w buty chłopo-robotnika wpisała koalicja PO_PSL. Ich działacze o zdrowych proletariackich twarzach , śmiało jak junacy patrzą w przyszłość. Tak jest oni już to widzą i wiedzą, że tylko zachodnie korporacje są ich jedynymi przyjaciółmi. OLga Tokarczuk jest ich głosem w kraju i zagranicą . Oni w swoich szeregach nie potrzebują zgniłych elit takich jak np. Monika Jaruzelska . Właśnie to jak te dwie panie mówią o Polsce i Polakach sprawia , że zaczynam tęsknić za PZPR i starym SLD- tym przed aferą Rywina.
+							<p>Taka narracja ośmieszania patriotyzmu i przekręcania historii, nie powstała nagle. Nie wymyśliła jej Olga Tokarczuk, ani Niemcy czy Żydzi. Jeśli prześledzimy lata 70 i złoty okres gierkowski . Zobaczymy w nim chłopo-robotnika i inteligencje pracującą <strong>europejczyków </strong> cenionych przez zachodnich bankierów. Do prowadzenia negocjacji handlowych nie potrzebują elit ani historii. Historia i sentymenty tylko przeszkadzają. Doskonale w buty chłopo-robotnika wpisała się koalicja PO_PSL. Ich działacze o zdrowych proletariackich twarzach , śmiało jak junacy patrzą w przyszłość. Tak jest oni już to widzą i wiedzą, że tylko zachodnie korporacje są ich jedynymi przyjaciółmi. OLga Tokarczuk jest ich głosem w kraju i zagranicą . Oni w swoich szeregach nie potrzebują zgniłych elit takich jak np. Monika Jaruzelska . Właśnie to jak te dwie panie mówią o Polsce i Polakach sprawia , że zaczynam tęsknić za PZPR i starym SLD- tym przed aferą Rywina.
 							</p>
 
 						</blockquote>
@@ -131,7 +131,7 @@
 						<img class="img-thumbnail float-left mr-3 mt-2 mb-3" src="./../img/Premier.jpg" alt="Mateusz Morawiecki">
 						<h2 class="h3 font-weight-bold mb-4">Dlaczego nie ufam Oldze Tokarczuk</h2>
 						<blockquote class="bockquote">
-						<p>To jest bardzo dobre pytanie, ale na chwilę obecną nie mam na nie jednoznacznej odpowiedzi. Uważam, że rok życia niesie więcej nauki, niż nie jedna mądra księga, choćby była jakubowa. Olga Tokarczuk pisze tak jakby w życiu lizała ciastko przez szybę w cukierni, dotyka uczuć i namiętności, których osobiście nie doznała. Przypomina mi pewną opowieść o zebraniu ludowym na Warmii tuż po Akcji Wisła, na temat organizacji kołchozów . Cytuję sekretarza partii, który oczywiście  nigdy nie był przed wojną na Ukrainie-części ZSRR : „Przed wojną polscy panowie pili krew chłopską i prześladowali Żydów , chłopi nie mieli ziemi , panował głód i nędza. W kraju rad chłopi pracowali w kołchozach, byli właścicielami ziemi i sami o sobie stanowili. Czy chcecie żeby tu było jak na Ukrainie ? ” - zawiesił głos i czekał na odpowiedź . I wtedy wyszła na środek stara Ukrainka i powiedziała „ Ja idu karowy doity, a ty synok idy w kukurydzu sraty” -co skutecznie zakończyło agitacje i opowieści jak to było dawniej.   </p>
+						<p>To jest bardzo dobre pytanie, ale na chwilę obecną nie mam na nie jednoznacznej odpowiedzi. Uważam, że rok życia niesie więcej nauki niż niejedna mądra księga, choćby była jakubowa. Olga Tokarczuk pisze tak jakby w życiu lizała ciastko przez szybę w cukierni, dotyka uczuć i namiętności, których osobiście nie doznała. Przypomina mi pewną opowieść o zebraniu ludowym na Warmii tuż po Akcji Wisła, na temat organizacji kołchozów . Cytuję sekretarza partii, który oczywiście  nigdy nie był przed wojną na Ukrainie-części ZSRR : „Przed wojną polscy panowie pili krew chłopską i prześladowali Żydów , chłopi nie mieli ziemi , panował głód i nędza. W kraju rad chłopi pracowali w kołchozach, byli właścicielami ziemi i sami o sobie stanowili. Czy chcecie żeby tu było jak na Ukrainie ? ” - zawiesił głos i czekał na odpowiedź . I wtedy wyszła na środek stara Ukrainka i powiedziała „ Ja idu karowy doity, a ty synok idy w kukurydzu sraty” -co skutecznie zakończyło agitacje i opowieści jak to było dawniej.</p>
 						
 						<footer class="blockquote-footer">Henryk Grzybowski</footer>
 						</blockquote>
@@ -175,7 +175,7 @@
 					</aside>
 
 						<!-- Copyright -->
-						<div class="footer-copyright text-center py-3">© 2020 Copyright : grzybowski.info@gmail.com
+						<div class="footer-copyright text-center py-3">© 2020 Copyright : henryk@otwarte-rewiry.pl
 							<a href="https://github.com/eniog/NewSite" target="_blank"><p class="lead text-success">site code on github</p></a>
 						</div>
 						<!-- Copyright -->
