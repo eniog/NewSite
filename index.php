@@ -92,7 +92,7 @@
 				<header>
 					
 					<h1 class="text-success">Kontrowersyjna lista</h1>
-					<p>Na tej stronie zaprezentuję kilka wybranych postaci, które są stawiane za wzory lub antywzory do naśladowania. Dokonałem dwóch ciekawych odkryć. Pierwsze to : im bardziej oddalamy się od 1989 r. tym zacieklej ludzie PO_PiS-u walczą z komuną. Drugie : kolaboracja własna lub członków rodziny, jest wprost proporcjonalna do walki z kolaborantami.<ul class="list-unstyled">
+					<p>Na tej stronie zaprezentuję kilka wybranych postaci z naszej historii , które są stawiane za wzory lub antywzory do naśladowania. Dokonałem dwóch ciekawych odkryć. Pierwsze to : czym dalej od 1989 r. tym zacieklej ludzie PO_PiSu walczą z komuną. Drugie : kolaboracja własna lub członków rodziny, jest wprost proporcjonalna do walki z kolaborantami.<ul class="list-unstyled">
 						<li>Jedni nazwą mnie pisiorem drudzy lewakiem </li>
 						<li>lecz zawsze i wszędzie pozostanę Polakiem</li>
 					</ul></p>
@@ -122,7 +122,7 @@
 					<div class="col-sm-6 col-md-4">
 					
 						<figure>
-							<a href="https://otomojdom.pl/"><img src="img/Kazimierz.jpg" alt="Premier"></a>
+							<a href="#"><img src="img/Kazimierz.jpg" alt="Premier"></a>
 							<figcaption>burmistrz Pieniężna</figcaption>
 						</figure>
 					

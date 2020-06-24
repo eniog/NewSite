@@ -1,0 +1,39 @@
+<html>
+<head>
+	<title>
+		otomojdom.pl
+	</title>
+
+	<style>
+	* { font-family: verdana; font-size: 10pt; COLOR: gray; }
+	b { font-weight: bold; }
+	table { height: 50%; border: 1px solid gray;}
+	td { text-align: center; padding: 25;}
+
+	</style>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-170124398-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-170124398-1');
+</script>
+
+</head>
+<body>
+<center>
+<br><br><br><br>
+	<table>
+	<tr><td>Welcome to the home of <b>otomojdom.pl</b></td></tr>
+	<tr><td>To change this page, upload your website into the public_html directory</td></tr>
+	<tr><td><img src="logo.png"></td></tr>
+	<tr><td style="font-size: 8pt">Date Created: Wed Jun 17 17:22:29 2020</td></tr>
+	</table>
+<br><br>
+
+</center>
+</body>
+
+</html>
