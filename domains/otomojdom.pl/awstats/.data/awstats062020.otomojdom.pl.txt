@@ -8,35 +8,35 @@ AWSTATS DATA FILE 7.8 (build 20200416)
 # update).
 BEGIN_MAP 30
 POS_GENERAL 2102                
-POS_TIME 2790                
-POS_VISITOR 8799                
-POS_DAY 9980                
-POS_DOMAIN 3604                
-POS_LOGIN 3839                
-POS_ROBOT 3994                
-POS_WORMS 4636                
-POS_EMAILSENDER 4767                
-POS_EMAILRECEIVER 4910                
-POS_SESSION 10237               
-POS_SIDER 10422               
-POS_FILETYPES 5045                
-POS_DOWNLOADS 5380                
-POS_OS 5492                
-POS_BROWSER 5706                
-POS_SCREENSIZE 6105                
-POS_UNKNOWNREFERER 6179                
-POS_UNKNOWNREFERERBROWSER 6435                
-POS_ORIGIN 6543                
-POS_SEREFERRALS 6686                
-POS_PAGEREFS 6851                
-POS_SEARCHWORDS 7087                
-POS_KEYWORDS 7239                
-POS_MISC 2453                
-POS_ERRORS 7298                
-POS_CLUSTER 3695                
-POS_SIDER_403 8287                
-POS_SIDER_400 7480                
-POS_SIDER_404 7634                
+POS_TIME 2774                
+POS_VISITOR 6473                
+POS_DAY 6621                
+POS_DOMAIN 3279                
+POS_LOGIN 3508                
+POS_ROBOT 3663                
+POS_WORMS 3982                
+POS_EMAILSENDER 4113                
+POS_EMAILRECEIVER 4256                
+POS_SESSION 6703                
+POS_SIDER 6859                
+POS_FILETYPES 4391                
+POS_DOWNLOADS 4560                
+POS_OS 4608                
+POS_BROWSER 4698                
+POS_SCREENSIZE 4799                
+POS_UNKNOWNREFERER 4873                
+POS_UNKNOWNREFERERBROWSER 4987                
+POS_ORIGIN 5096                
+POS_SEREFERRALS 5229                
+POS_PAGEREFS 5409                
+POS_SEARCHWORDS 5587                
+POS_KEYWORDS 5754                
+POS_MISC 2438                
+POS_ERRORS 5828                
+POS_CLUSTER 3364                
+POS_SIDER_404 5938                
+POS_SIDER_400 6082                
+POS_SIDER_403 6164                
 END_MAP
 
 # LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
@@ -48,62 +48,62 @@ END_MAP
 # MonthHostsKnown   = Number of hosts known
 # MonthHostsUnKnown = Number of hosts unknown
 BEGIN_GENERAL 8
-LastLine 20200623003533 3529 1141149 24540247349000
-FirstTime 20200617173610
-LastTime 20200622194851
-LastUpdate 20200623003536 3529 0 3529 0 0
-TotalVisits 41                  
-TotalUnique 23                  
+LastLine 20200701042810 1 0 13830376056833
+FirstTime 20200630173532
+LastTime 20200630181019
+LastUpdate 20200701044815 1 0 0 0 0
+TotalVisits 2                   
+TotalUnique 2                   
 MonthHostsKnown 0                   
-MonthHostsUnknown 31                  
+MonthHostsUnknown 2                   
 END_GENERAL
 
 # Misc ID - Pages - Hits - Bandwidth
 BEGIN_MISC 10
-FlashSupport 0 0 0
-WindowsMediaPlayerSupport 0 0 0
-DirectorSupport 0 0 0
-PDFSupport 0 0 0
-QuickTimeSupport 0 0 0
+AddToFavourites 0 1 0
 RealPlayerSupport 0 0 0
 JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
 JavaEnabled 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
 TotalMisc 0 0 0
-AddToFavourites 0 95 0
+PDFSupport 0 0 0
 END_MISC
 
 # Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
 BEGIN_TIME 24
-0 0 4 256152 12 28 258471
-1 0 0 0 10 23 270027
-2 0 0 0 1 1 473
-3 1 1 75068 4 4 8898
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
 4 0 0 0 0 0 0
-5 0 0 0 1 2 78634
-6 18 63 399464 7 7 24973
-7 146 366 1671993 8 10 21577
-8 136 523 10491421 23 29 83206
-9 228 568 8587220 57 90 437086
-10 110 420 5263581 63 74 380507
-11 176 378 3453986 4 4 12294
-12 244 455 3332237 20 24 90739
-13 326 673 6046655 22 26 141357
-14 834 1641 27108479 79 96 393658
-15 899 1576 15843200 109 120 349174
-16 1110 2270 30998497 141 152 638738
-17 1159 2115 31472444 131 209 1104771
-18 1068 2582 41353032 158 178 623144
-19 405 708 9170822 71 186 2369455
-20 68 115 1643651 13 15 42922
-21 181 359 4708309 7 14 19758
-22 146 169 444860 4 20 96138
-23 3 123 1804736 2 6 8563
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 6 11 295245 11 13 58121
+18 30 114 3298437 3 3 4952
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 1 5 32202
 END_TIME
 
 # Domain - Pages - Hits - Bandwidth
 # The 10 first Pages must be first (order not required for others)
 BEGIN_DOMAIN 1
-ip 7258 15109 204125807
+ip 36 125 3593682
 END_DOMAIN
 
 # Cluster ID - Pages - Hits - Bandwidth
@@ -117,19 +117,12 @@ END_LOGIN
 
 # Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
 # The 10 first Hits must be first (order not required for others)
-BEGIN_ROBOT 12
-wordpress 566 2299627 20200623003304 0
-Googlebot/ 249 3515321 20200622223327 9
-(firefox/)([0-9]\.|[0-1][0]\.) 14 121321 20200622192510 0
-Googlebot\-Image/ 5 180868 20200622105329 0
-facebookexternalhit/ 4 164871 20200621121144 1
-favicon 4 29991 20200620161946 0
-curl 4 976 20200618085945 0
-no_user_agent 3 142739 20200621133609 0
-XML[\x20]Sitemaps[\x20]Generator 3 142361 20200620161339 1
-Go\-http\-client/ 2 4842 20200617220955 1
-bingbot/ 1 4245 20200621000343 1
-bot[\s_+:,\.\;\/\\-] 2 15144 20200618093552 1
+BEGIN_ROBOT 5
+(firefox/)([0-9]\.|[0-1][0]\.) 4 27187 20200630173611 0
+wordpress 3 11733 20200630231434 0
+curl 2 488 20200630171955 0
+favicon 2 15733 20200630174701 0
+Googlebot/ 1 4211 20200630231433 1
 END_ROBOT
 
 # Worm ID - Hits - Bandwidth - Last visit
@@ -148,60 +141,30 @@ BEGIN_EMAILRECEIVER 0
 END_EMAILRECEIVER
 
 # Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
-BEGIN_FILETYPES 14
-png 709 6468432 0 0
-php 6430 72218749 0 0
-xml 5 3506 0 0
-gif 31 263521 0 0
-woff 38 486998 0 0
-css 1797 8949526 0 0
-Unknown 827 847360 0 0
-ttf 1 26438 0 0
-jpg 1523 48948431 0 0
-woff2 136 6306589 0 0
-xsl 1 1491 0 0
-svg 116 255841 0 0
-jpeg 1 55487 0 0
-js 3494 59293438 0 0
+BEGIN_FILETYPES 6
+woff2 1 224795 0 0
+php 36 829100 0 0
+jpg 9 1230028 0 0
+css 9 42664 0 0
+js 66 669325 0 0
+png 4 597770 0 0
 END_FILETYPES
 
 # Downloads - Hits - Bandwidth
-BEGIN_DOWNLOADS 1
-/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl 1 0 1491
+BEGIN_DOWNLOADS 0
 END_DOWNLOADS
 
 # OS ID - Hits
-BEGIN_OS ID - Hits - Pages 10
-winxp 2 2
-android10 255 15
-linux 58 2
-win8.1 2 2
-macosx9 1 1
-Unknown 11 9
-linuxubuntu 1 1
-win10 14628 7220
-androidmarshmallow 51 2
-androidpie 100 4
+BEGIN_OS ID - Hits - Pages 2
+Unknown 1 1
+win10 124 35
 END_OS
 
 # Browser ID - Hits - Pages
-BEGIN_BROWSER 16
-chrome36.0.1985.67 1 1
-edge18 2118 148
-chrome78.0.3882.0 47 1
-Unknown 2 0
-chrome59.0.3071.115 6 6
-chrome81.0.4044.122 30 2
-chrome35.0.1916.47 1 1
-opera68.0.3618.165 11 1
-chrome41.0.2226.0 1 1
-chrome41.0.2224.3 1 1
-chrome41.0.2225.0 1 1
-chrome75.0.3770.143 45 1
-mozilla 9 9
-firefox58.0 1 1
-chrome83.0.4103.97 9414 4868
-chrome83.0.4103.106 3421 2216
+BEGIN_BROWSER 3
+edge18 10 5
+Unknown 1 1
+chrome83.0.4103.116 114 30
 END_BROWSER
 
 # Screen size - Hits
@@ -209,261 +172,102 @@ BEGIN_SCREENSIZE 0
 END_SCREENSIZE
 
 # Unknown referer OS - Last visit date
-BEGIN_UNKNOWNREFERER 3
-Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20200618085949
-Mozilla/5.0_(compatible) 20200618090614
-cortex/1.0 20200620143934
+BEGIN_UNKNOWNREFERER 1
+Softaculous 20200630173532
 END_UNKNOWNREFERER
 
 # Unknown referer Browser - Last visit date
 BEGIN_UNKNOWNREFERERBROWSER 1
-cortex/1.0 20200620143934
+Softaculous 20200630173532
 END_UNKNOWNREFERERBROWSER
 
 # Origin - Pages - Hits 
 BEGIN_ORIGIN 6
-From0 189 294
-From1 2 2
-From2 22 22
-From3 8 8
-From4 7037 14783
+From0 1 1
+From1 0 0
+From2 3 3
+From3 1 1
+From4 31 120
 From5 0 0
 END_ORIGIN
 
 # Search engine referers ID - Pages - Hits
-BEGIN_SEREFERRALS 1
-www_google_com 22 22
+BEGIN_SEREFERRALS 2
+www_bing_com 1 1
+www_google_com 2 2
 END_SEREFERRALS
 
 # External page referers - Pages - Hits
 # The 10 first Pages must be first (order not required for others)
-BEGIN_PAGEREFS 2
-http://m.facebook.com 5 5
-https://api.monsterinsights.com/v2/auth/new/lite/profile/ 3 3
+BEGIN_PAGEREFS 1
+https://otwarte-rewiry.pl 1 1
 END_PAGEREFS
 
 # Search keyphrases - Number of search
 # The 10 first number of search must be first (order not required for others)
-BEGIN_SEARCHWORDS 0
+BEGIN_SEARCHWORDS 1
+otomojdom.pl 1
 END_SEARCHWORDS
 
 # Search keywords - Number of search
 # The 10 first number of search must be first (order not required for others)
-BEGIN_KEYWORDS 0
+BEGIN_KEYWORDS 1
+otomojdom.pl 1
 END_KEYWORDS
 
 # Errors - Hits - Bandwidth
-BEGIN_ERRORS 9
-503 2 769
-401 1 4340
-500 5 2698
-204 2 496
-403 6 2070
-301 81 57682
-404 97 643394
-400 4 12703
-302 168 88068
+BEGIN_ERRORS 3
+302 2 1041
+301 4 1599
+404 2 29078
 END_ERRORS
 
-# URL with 400 errors - Hits - Last URL referrer
-BEGIN_SIDER_400 1
-/wp-admin/admin-ajax.php 4 https://otomojdom.pl/wp-admin/admin-ajax.php
-END_SIDER_400
-
 # URL with 404 errors - Hits - Last URL referrer
-BEGIN_SIDER_404 23
-/wp-content/uploads/2018/08/james-sutton-768x768.jpg 1 -
-/category-sitemap.xml 3 -
-/team/ 1 -
-/post-sitemap.xml 3 -
-/page-sitemap.xml 2 -
-/ads.txt 5 -
-/wp-admin/admin-ajax.php 47 http://otomojdom.pl/wp-admin/customize.php
-/wp-content/themes/eduexpert/images/header.jpg 2 http://otomojdom.pl/wp-admin/customize.php
-/9-2/ 2 -
-/.well-known/assetlinks.json 1 -
-/home 1 -
-/sitemap_index.xml 3 -
-/wp-config 1 -
-/o-nas 1 -
-/author-sitemap.xml 3 -
-/contact/ 1 -
-/2018/08/ 1 -
-/humans.txt 1 -
-/blog/ 1 -
-/gallery/ 1 -
-/menu-2/ 14 https://www.google.com/
-/galeria 1 -
-/about/ 1 -
+BEGIN_SIDER_404 2
+/ads.txt 1 -
+/witam-w-wordpress/ 1 https://otwarte-rewiry.pl/
 END_SIDER_404
 
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
 # URL with 403 errors - Hits - Last URL referrer
-BEGIN_SIDER_403 4
-/wp-admin/post.php 1 https://otomojdom.pl/wp-admin/post.php
-/wp-json/wp/v2/types/wp_block 1 https://otomojdom.pl/wp-admin/post.php
-/ 2 -
-/wp-admin/admin-ajax.php 2 https://otomojdom.pl/wp-admin/post.php
+BEGIN_SIDER_403 0
 END_SIDER_403
 
 # Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
 # [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
 # The 10 first Hits must be first (order not required for others)
-BEGIN_VISITOR 31
-89.66.86.1 7230 14881 198077649 20200622194851
-69.167.144.232 6 6 23154 20200622104332
-64.78.149.164 2 2 810 20200618085949
-66.102.8.94 1 10 118221 20200618091316
-173.252.87.9 1 11 72916 20200621131111
-34.222.229.130 1 1 405 20200618085942
-52.15.254.228 1 1 405 20200618085949
-138.197.148.140 1 1 4124 20200618094345
-85.92.66.147 1 47 1293426 20200620161343
-3.14.255.131 1 1 405 20200618085941
-31.13.103.1 0 1 125005 
-173.252.87.18 0 8 320239 
-83.29.124.69 1 47 1089697 20200621161100
-104.248.15.131 1 1 11283 20200618090614
-163.172.70.242 1 1 77945 20200619095834
-31.13.103.13 0 1 125005 
-77.111.247.182 1 11 284590 20200618095038
-34.209.232.166 1 1 405 20200618085949
-138.197.147.71 1 1 4124 20200618094358
-118.127.15.84 1 1 75068 20200619030453
-165.227.35.253 1 1 4124 20200618094357
-173.252.87.117 0 7 86611 
-66.102.8.64 1 14 535883 20200618091316
-173.252.87.4 0 9 414515 
-37.248.209.94 0 4 256152 
-66.102.8.95 0 6 426873 
-52.28.236.88 1 1 405 20200618085941
-138.197.140.187 1 1 4124 20200618094343
-83.29.116.55 1 19 289658 20200622163956
-18.196.96.172 1 1 405 20200618085949
-173.252.87.116 0 12 402181 
+BEGIN_VISITOR 2
+89.66.86.1 35 124 3592936 20200630181019
+95.216.8.85 1 1 746 20200630173532
 END_VISITOR
 
 # Date - Pages - Hits - Bandwidth - Visits
-BEGIN_DAY 7
-20200617 268 979 16735734 2
-20200618 1165 2630 30338831 19
-20200619 1337 2689 29929388 5
-20200620 1164 3007 43376677 5
-20200621 1098 2572 40278021 6
-20200622 2226 3228 43211004 4
-20200623 0 4 256152 0
+BEGIN_DAY 1
+20200630 36 125 3593682 2
 END_DAY
 
 # Session range - Number of visits
-BEGIN_SESSION 5
-0s-30s 27
-1h+ 10
+BEGIN_SESSION 2
+0s-30s 1
 30mn-1h 1
-2mn-5mn 2
-5mn-15mn 1
 END_SESSION
 
 # URL - Pages - Bandwidth - Entry - Exit
 # The 10 first Pages must be first (order not required for others)
-BEGIN_SIDER 101
-/wp-admin/admin-ajax.php 4026 4302117 4 7
-/ 1057 10547203 27 23
-/wp-json/ithemes-security/v1/admin-notices 379 86863 0 0
-/wp-admin/load-scripts.php 171 7775954 0 0
-/wp-admin/edit.php 147 3452303 0 0
-/wp-admin/post.php 142 13294892 0 0
-/blog/ 91 1207424 0 0
-/wp-admin/themes.php 88 1778685 0 0
-/wp-admin/customize.php 83 12758136 0 0
-/wp-json/wp/v2/users/me 77 75875 0 0
-/wp-json/wp/v2/pages/17 1 953 0 0
-/wp-json/wp/v2/pages/13 3 4290 0 0
-/wp-admin/about.php 18 394471 0 0
-/wp-json/wp/v2/pages/7/autosaves 1 758 0 0
-/about/ 3 39197 0 0
-/wp-json/wp/v2/pages/385 3 5383 0 0
-/kontakt/ 2 37790 0 0
-/wp-json/wp/v2/media/298 14 30671 0 0
-/.well-known/acme-challenge/2X2RICieW7sM9-F3zWhT7oa5p_375-90xJgnuuKkU1I 4 1620 4 3
-/wp-json/wp/v2/media/30 2 2278 0 0
-/wp-admin/edit-tags.php 1 24529 0 0
-/wp-admin/widgets.php 14 651340 0 0
-/wp-json/wp/v2/pages/433 3 4993 0 0
-/wp-json/wp/v2/media/11 1 1113 0 0
-/comments/feed/ 32 25458 0 0
-/wp-json/wp/v2/pages/15 1 946 0 0
-/category/uncategorized/ 1 4489 0 0
-/wp-json/wp/v2/users/1 6 8879 0 0
-/feed/ 5 5833 0 0
-/wp-json/wp/v2/media/296 14 30122 0 0
-/wp-admin/options-reading.php 12 229485 0 0
-/2020/06/ 3 39441 0 0
-/wp-admin/ 52 2243217 1 1
-/wp-admin/options-discussion.php 2 47952 0 0
-/sample-page-2/ 2 18502 0 0
-/wp-json/ithemes-security/v1 1 1363 0 0
-/wp-admin/revision.php 1 22293 0 0
-/wp-json/ithemes-security/v1/admin-notices/settings 1 477 0 0
-/wp-json/wp/v2/pages 75 231177 0 0
-/wp-json/wp/v2/media/293 14 29776 0 0
-/7-2/ 1 8423 0 0
-/wp-admin/options-general.php 17 404456 0 0
-/wp-json/wp/v2/blocks 19 1878 0 0
-/2020/06/22/hello-world/ 1 33001 0 0
-/wp-json/wp/v2/media/299 14 29925 0 0
-/wp-admin/profile.php 11 253890 0 0
-/team/ 5 33831 0 0
-/wp-admin/options-writing.php 3 30873 0 0
-/wp-admin/theme-editor.php 17 248154 0 0
-/wp-admin/post-new.php 10 892656 0 0
-/wp-admin/upload.php 2 44611 0 0
-/wp-admin/user-new.php 1 23095 0 0
-/wp-json/wp/v2/media/294 14 30182 0 0
-/wp-json/wp/v2/media/334 14 25703 0 0
-/wp-json/wp/v2/media/369 14 29865 0 0
-/wp-admin/theme-install.php 4 97702 0 0
-/wp-admin/plugin-install.php 16 301673 0 0
-/wp-admin/options-permalink.php 10 204141 0 0
-/wp-json/ithemes-security/v1/user-matchable-settings 1 322 0 0
-/wp-json/wp/v2/media/295 14 30518 0 0
-/gallery/ 3 25719 0 0
-/.well-known/acme-challenge/0aZYnURbFKhqSeCHxmy0vbuHapvG5qrJwo7xPXT9mZM 4 1620 3 4
-/2020/06/18/hello-world/ 1 8858 0 0
-/wp-json/wp/v2/pages/365 10 23202 0 0
-/wp-includes/fonts/dashicons.ttf 1 26438 0 0
-/wp-admin/admin.php 59 2123617 0 0
-/wp-json/wp/v2/media/297 14 30625 0 0
-/wp-login.php 40 117289 2 3
-/wp-admin/plugins.php 29 520192 0 0
-/wp-json/wp/v2/pages/244 8 41673 0 0
-/wp-admin/edit-comments.php 4 111864 0 0
-/wp-admin/nav-menus.php 31 909092 0 0
-/wp-json/wp/v2/users 16 18306 0 0
-/wp-admin/load-styles.php 67 6245813 0 0
-/sample-page/ 2 18604 0 0
-/wp-admin/tools.php 4 28431 0 0
-/wp-json/yoast/v1/statistics 31 11611 0 0
-/olga_t/ 1 32918 0 0
-/wp-json/wp/v2/pages/381 1 2025 0 0
-/wp-json/wp/v2/media/35 1 1302 0 0
-/o-nas/ 4 87015 0 0
-/wp-json/wp/v2/pages/9 3 3407 0 0
-/2020/06/17/hello-world/ 4 23836 0 0
-/wp-json/wp/v2/pages/7 1 1143 0 0
-/menu-2/ 4 50755 0 0
-/wp-admin/users.php 3 43799 0 0
-/wp-admin/update-core.php 2 45331 0 0
-/lupaszko/ 3 66642 0 0
-/wp-json/wp/v2/ 24 136430 0 0
-/wp-json/wp/v2/posts/376 2 4067 0 0
-/wp-json/wp/v2/types/wp_block 19 10957 0 0
-/wp-admin/async-upload.php 50 38426 0 0
-/contact/ 1 7732 0 0
-/wp-json/wp/v2/taxonomies/post_tag 7 7569 0 0
-/wp-json/wp/v2/users/ 38 43067 0 0
-/wp-json/yoast/v1/configurator 8 11286 0 0
-/wp-admin/plugin-editor.php 1 12256 0 0
-/9-2/ 4 43846 0 0
-/wp-json/wp/v2/pages/365/autosaves 9 9481 0 0
-/wp-json/wp/v2/media/10 2 2220 0 0
-/wp-json/wp/v2/pages/14 1 936 0 0
+BEGIN_SIDER 12
+/ 11 141579 2 1
+/wp-admin/admin-ajax.php 5 2131 0 0
+/wp-admin/load-scripts.php 4 182466 0 0
+/wp-admin/load-styles.php 4 287616 0 0
+/2020/06/30/hello-world/ 3 38465 0 1
+/wp-admin/themes.php 2 25564 0 0
+/blog/ 2 38508 0 0
+/wp-login.php 1 2166 0 0
+/wp-admin/customize.php 1 65252 0 0
+/wp-admin/ 1 18576 0 0
+/category/uncategorized/ 1 7424 0 0
+/kontakt/ 1 19353 0 0
 END_SIDER

@@ -15,10 +15,10 @@
 		the_privacy_policy_link( '', '<span role="separator" aria-hidden="true"></span>' );
 	}
 	?>
-	<a href="<?php echo esc_url( __( 'https://otwarte-rewiry.pl/', 'twentyseventeen' ) ); ?>" class="imprint">
+	<a href="<?php echo esc_url( __( 'https://otwarte-rewiry.pl', 'twentyseventeen' ) ); ?>" class="imprint">
 		<?php
 			/* translators: %s: WordPress */
-		printf( __( 'Henryk Grzybowski %s', 'twentyseventeen' ), '@ Blog' );
+		printf( __( 'henryk grzybowski @ %s', 'twentyseventeen' ), 'henryk@otomojdom.pl' );
 		?>
 	</a>
 </div><!-- .site-info -->
