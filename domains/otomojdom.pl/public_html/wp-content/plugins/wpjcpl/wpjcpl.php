@@ -4,7 +4,7 @@
  * Plugin Name:          Cytaty
  * Plugin URI:           https://otomojdom.pl
  * Description:          Fajne cytaty
- * Version:              0.1.0
+ * Version:              0.2.0
  * Requires at least:    5.0
  * Requires PHP:         7.0
  * Author:               HG
@@ -126,7 +126,7 @@ function wpjcpl_deactivation()
     global $wpdb;
     $tableName = wpjcpl_get_table_name();
     $wpdb->query("TRUNCATE TABLE $tableName");
-
+    
     //$wpdb->delete($tableName,['id'=>105]);
 
     update_option('wpjcpl_last_quote_id', null);
@@ -140,63 +140,12 @@ register_deactivation_hook(__FILE__, 'wpjcpl_deactivation');
 function wpjcpl_get_quote()
 {
     global $wpdb;
-    $quotes = [
-        [
-            'text' => 'Biznes jest cenny tylko w takim stopniu, w jakim spełnia ludzkie potrzeby.',
-            'author' => 'Bill Gates'
-        ],
-        [
-            'text' => 'Sukces jest kiepskim nauczycielem. Zwodzi inteligentnych ludzi do myślenia, że nie mogą przegrać.',
-            'author' => 'Bill Gates'
-        ],
-        [
-            'text' => 'Bądź miły dla kujonów. Są duże szanse, że będziesz dla któregoś pracować.',
-            'author' => 'Bill Gates'
-        ],
-        [
-            'text' => 'Jeśli nie możesz czegoś zrobić dobrze, przynajmniej spraw, żeby wyglądało dobrze.',
-            'author' => 'Bill Gates'
-        ],
-        [
-            'text' => 'Życie jest niesprawiedliwe; przyzwyczaj się do tego.',
-            'author' => 'Bill Gates'
-        ],
-        [
-            'text' => 'Własność intelektualna ma trwałość banana leżącego na półce sklepowej.',
-            'author' => 'Bill Gates'
-        ],
-        [
-            'text' => 'Dokonując wyborów lub ustalając zasady dotyczące gospodarki, edukacji lub medycyny, społeczeństwu najlepiej służy wybór ludzie szczególnie pracowitych, inteligentnych i zainteresowany długoterminowymi rozwiązaniami.',
-            'author' => 'Bill Gates'
-        ],
-        [
-            'text' => 'Najbardziej niezadowoleni klienci są Twoim największym źródłem wiedzy.',
-            'author' => 'Bill Gates'
-        ],
-        [
-            'text' => 'Czytanie cyfrowe z czasem całkowicie przejmie rynek. Jest lekkie i fantastyczne do udostępniania.',
-            'author' => 'Bill Gates'
-        ],
-        [
-            'text' => 'Wierzę w innowacje, i w to, że finansowanie badań podstawowych, jest sposobem na ich uzyskanie.',
-            'author' => 'Bill Gates'
-        ],
-        [
-            'text' => 'Tym gorzej, że błaznom nie wolno mówić mądrze
-            o tym, co mądrzy po błazeńsku robią.',
-            'author' => 'William Shakespeare,'
-        ],
-        [
-            'text' => 'Mały wybór w zgniłych jabłkach.',
-            'author' => 'William Shakespeare,'
-        ],        [
-            'text' => 'To życie szpilki złamanej niewarte.',
-            'author' => 'William Shakespeare,'
-        ],
-    ];
+    $tableName = wpjcpl_get_table_name();
+    $quote_count = $wpdb->get_var("SELECT COUNT(*) FROM  $tableName");
+
     $last_quote_id = get_option('wpjcpl_last_quote_id');
     while (true) {
-        $id = rand(0, count($quotes) - 1);
+        $id = rand(1,$quote_count);
         // $id = rand(0,1);
         if ($id != $last_quote_id) {
             break;
@@ -204,11 +153,11 @@ function wpjcpl_get_quote()
     }
 
 
-    $quote = $quotes[$id];
+    $quote = $wpdb->get_row("SELECT * FROM $tableName WHERE id = $id");
     update_option('wpjcpl_last_quote_id', $id);
     return [
-        'text' => wptexturize($quote['text']),
-        'author' => wptexturize($quote['author'])
+        'text' => wptexturize($quote->text),
+        'author' => wptexturize($quote->author)
     ];
 }
 
